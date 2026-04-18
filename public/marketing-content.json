@@ -1,0 +1,43 @@
+{
+  "proof": {
+    "revisions": "240+",
+    "hours": "1,200+",
+    "releaseCadence": "Weekly product updates",
+    "updatedOn": "12 Apr 2026"
+  },
+  "changelog": [
+    {
+      "title": "Follow-up Lite Product",
+      "detail": "Introduced a standalone daily follow-up mode for teams that need speed without full CRM complexity."
+    },
+    {
+      "title": "Lead Capture Intelligence",
+      "detail": "Added OCR + text parsing with confidence tags and manual field mapping for business card onboarding."
+    },
+    {
+      "title": "Integrated Invoice + Collections",
+      "detail": "Connected lead conversion, invoicing, payment ledger, and dunning actions in a single workflow."
+    },
+    {
+      "title": "Role and Package Controls",
+      "detail": "Enabled Lite / Pro / Full product gating with member-specific access to follow-up, pipeline, and billing."
+    }
+  ],
+  "roadmap": {
+    "inProgress": [
+      "Production-grade billing backend with payment webhook verification and retry automation",
+      "Field-sales mobile experience with offline-safe follow-up execution",
+      "Collections Inbox v2 with owner-level recovery and escalation playbooks"
+    ],
+    "next": [
+      "Client portal for invoice visibility, payment tracking, and document downloads",
+      "Role-based command palette and faster keyboard-first workflows",
+      "Advanced reporting drill-down with team and source performance views"
+    ],
+    "planned": [
+      "SSO, enterprise-grade security controls, and policy enforcement",
+      "AI-assisted lead enrichment and auto-prioritization suggestions",
+      "Workflow marketplace for reusable sales and collections automation templates"
+    ]
+  }
+}
